@@ -1,0 +1,23 @@
+# LaTeX output files
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# LaTeX source and markdown
+*.tex
+*.md
+
+# Data files (too large / generated)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
